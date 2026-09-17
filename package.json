@@ -1,0 +1,27 @@
+{
+  "name": "gs9",
+  "version": "1.0.0",
+  "author": "Roman",
+  "description": "GS9 Desktop Hub",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "build": "electron-builder --win"
+  },
+  "build": {
+    "appId": "com.gs9.app",
+    "productName": "GS9",
+    "win": {
+      "target": [
+        {
+          "target": "nsis",
+          "arch": ["x64"]
+        }
+      ]
+    }
+  },
+  "devDependencies": {
+    "electron": "^26.0.0",
+    "electron-builder": "^24.6.0"
+  }
+}
