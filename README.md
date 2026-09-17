@@ -2,9 +2,9 @@
   <img src="https://github.com/user-attachments/assets/9bce3c24-69a3-422d-a6d6-b4d52800b265" width="400" alt="vibe animation">
 </div>
 
-# GS9 
+# GS9 FOLDER
 
-**GS9** is a lightweight, high-performance desktop shortcut hub built for Windows, designed with an exquisite frosted glass aesthetic, smooth animations, and native system integration.
+**GS9 FOLDER** is a lightweight, high-performance desktop shortcut hub built for Windows, designed with an exquisite frosted glass aesthetic, smooth animations, and native system integration.
 
 ## ✨ Key Features
 
